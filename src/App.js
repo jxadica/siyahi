@@ -1,9 +1,9 @@
-import CustomButton from "./Component/CustomButton";
+import Employee from './Component/Employee'
 
 function App() {
   return (
     <div className="App">
-      < CustomButton/>
+     <Employee />
     </div>
   );
 }
