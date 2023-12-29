@@ -1,0 +1,59 @@
+.Button button{
+    cursor: pointer;
+}
+
+.Button button {
+    font-size: 18px;
+    width: 100px;
+    height: 50px;
+    margin-top: 200px;
+margin-right: 50px
+ 
+}
+.Button{
+    position: relative;
+   text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+
+#popup {
+    text-align: center;
+ width: 200px;
+    display: none;
+    position: fixed;
+    margin-left: 500px;
+    margin-top: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.styleText{
+    margin-top: 100px;
+   font-weight: 900;
+   font-size: 36px;
+   color: teal;
+}
+.styleWarning{
+    position: absolute;
+  top: 50px;
+  left: 150px;
+  width: 400px;
+    background-color: red;
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+   
+}
+.text1{
+    color: brown;
+    font-weight: 900 ;
+    background-color: tan;
+}
+.myButton{
+    background-color: aqua;
+    color: azure;
+}
